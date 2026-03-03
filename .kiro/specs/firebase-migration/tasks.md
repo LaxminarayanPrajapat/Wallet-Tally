@@ -53,51 +53,51 @@ This plan implements the migration of Wallet Tally from MySQL to Firebase Firest
     - Test ORDER BY and LIMIT clauses
     - _Requirements: 12.1, 12.2, 12.3_
 
-- [ ] 4. Implement FirebaseDatabase class
-  - [ ] 4.1 Create FirebaseDatabase implementing DatabaseInterface
+- [x] 4. Implement FirebaseDatabase class
+  - [x] 4.1 Create FirebaseDatabase implementing DatabaseInterface
     - Initialize Firestore client with credentials
     - Implement connection management (connect(), disconnect(), isConnected())
     - Add error handling with logging and fallback to MySQL
     - _Requirements: 1.4, 2.1, 2.3, 2.4, 21.1, 21.2, 21.5_
   
-  - [ ] 4.2 Implement CRUD operations (insert, update, delete, findById)
+  - [x] 4.2 Implement CRUD operations (insert, update, delete, findById)
     - Add server timestamp for created_at if not present
     - Handle data type conversions between SQL and NoSQL formats
     - Validate data before write operations
     - _Requirements: 1.1, 1.6_
   
-  - [ ] 4.3 Implement query operations (query, queryOne, count)
+  - [x] 4.3 Implement query operations (query, queryOne, count)
     - Apply WHERE conditions using QueryTranslator
     - Apply ORDER BY and LIMIT clauses
     - Format results to match mysqli result structure
     - _Requirements: 1.2, 1.3, 12.1, 12.2, 12.3_
   
-  - [ ] 4.4 Implement aggregate operations (sum, avg) with client-side calculation
+  - [x] 4.4 Implement aggregate operations (sum, avg) with client-side calculation
     - Query all matching documents
     - Calculate aggregates in PHP
     - _Requirements: 12.4_
   
-  - [ ] 4.5 Implement transaction management using Firebase batch writes
+  - [x] 4.5 Implement transaction management using Firebase batch writes
     - Implement beginTransaction() to create batch
     - Implement commit() to execute batch atomically
     - Implement rollback() to discard batch
     - Handle Firebase 500 operation limit per batch
     - _Requirements: 13.1, 13.2, 13.3, 13.4_
   
-  - [ ] 4.6 Implement batch operations (batchDelete, batchInsert)
+  - [x] 4.6 Implement batch operations (batchDelete, batchInsert)
     - Group operations into batches of 500
     - Execute batches sequentially
     - _Requirements: 13.1, 13.2_
   
-  - [ ]* 4.7 Write property test for atomic cascade delete
+  - [x] 4.7 Write property test for atomic cascade delete
     - **Property 10: Atomic Cascade Delete**
     - **Validates: Requirements 13.1, 13.2, 13.5**
   
-  - [ ]* 4.8 Write property test for transaction rollback completeness
+  - [x] 4.8 Write property test for transaction rollback completeness
     - **Property 11: Transaction Rollback Completeness**
     - **Validates: Requirements 13.3**
   
-  - [ ]* 4.9 Write unit tests for FirebaseDatabase operations
+  - [x] 4.9 Write unit tests for FirebaseDatabase operations
     - Test CRUD operations with Firebase emulator
     - Test error handling and fallback logic
     - Test batch operation limits
