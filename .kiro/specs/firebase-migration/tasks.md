@@ -34,8 +34,8 @@ This plan implements the migration of Wallet Tally from MySQL to Firebase Firest
     - Test edge cases (null values, empty strings, boundary conditions)
     - _Requirements: 1.1, 1.2, 1.3_
 
-- [ ] 3. Implement Query Translator component
-  - [ ] 3.1 Create QueryTranslator class with SQL pattern translation methods
+- [x] 3. Implement Query Translator component
+  - [x] 3.1 Create QueryTranslator class with SQL pattern translation methods
     - Implement translateWhere() for WHERE clause conversion to Firestore conditions
     - Implement translateJoin() for JOIN clause conversion to multiple queries
     - Implement translateAggregate() for SUM, COUNT, AVG conversion to client-side calculations
@@ -43,11 +43,11 @@ This plan implements the migration of Wallet Tally from MySQL to Firebase Firest
     - Handle date/time functions (NOW(), DATE_SUB(), YEAR(), MONTH())
     - _Requirements: 12.1, 12.2, 12.3, 12.4, 12.5, 12.6, 12.7, 12.8_
   
-  - [ ]* 3.2 Write property test for query translation equivalence
+  - [x] 3.2 Write property test for query translation equivalence
     - **Property 9: Query Translation Equivalence**
     - **Validates: Requirements 12.1, 12.2, 12.3, 12.4, 12.5, 12.6, 12.7, 12.8**
   
-  - [ ]* 3.3 Write unit tests for QueryTranslator
+  - [x] 3.3 Write unit tests for QueryTranslator
     - Test specific SQL patterns used in application
     - Test comparison operators and LIKE patterns
     - Test ORDER BY and LIMIT clauses

@@ -55,6 +55,36 @@ Tests Property 22: Database Implementation Switching
 - 20.1: Configuration flag switches between MySQL and Firebase
 - 20.2: Rollback to MySQL without code changes
 
+### QueryTranslationPropertiesTest.php
+
+Tests Property 9: Query Translation Equivalence
+
+**Properties tested:**
+- WHERE clause translation preserves comparison semantics
+- Multiple AND conditions are correctly parsed
+- ORDER BY clause parsing preserves field and direction
+- Multiple ORDER BY fields are correctly parsed
+- LIMIT clause parsing extracts correct value
+- SUM aggregate function produces correct calculation
+- COUNT aggregate function produces correct count
+- AVG aggregate function produces correct average
+- LIKE pattern matching works correctly
+- Date component extraction produces correct values
+- Field name cleaning removes SQL artifacts
+- Numeric value parsing preserves type
+- Empty WHERE clause produces empty conditions
+- JOIN translation identifies table relationships
+
+**Validates Requirements:**
+- 12.1: WHERE clause conversion to Firestore conditions
+- 12.2: ORDER BY conversion to Firestore orderBy()
+- 12.3: LIMIT conversion to Firestore limit()
+- 12.4: Aggregate functions (SUM, COUNT, AVG) to client-side calculations
+- 12.5: JOIN operations to multiple Firebase queries
+- 12.6: Prepared statement parameters to Firebase query parameters
+- 12.7: Comparison operators (=, !=, <, <=, >, >=, LIKE)
+- 12.8: Date/time functions (NOW(), DATE_SUB(), YEAR(), MONTH())
+
 ## Property Test Structure
 
 Each property test follows this pattern:
