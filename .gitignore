@@ -1,0 +1,53 @@
+# PHP
+vendor/
+composer.phar
+*.log
+
+# Database
+*.sql
+db_errors.log
+registration_errors.log
+
+# Configuration files with sensitive data
+config/db.php
+config/email_config.php
+config/firebase_config.php
+.env
+
+# Firebase credentials
+firebase-credentials.json
+*-firebase-adminsdk-*.json
+
+# Logs
+logs/*.log
+*.log
+
+# Uploads
+uploads/profile_pictures/*
+!uploads/profile_pictures/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+tmp/
+temp/
+cache/
+
+# Backup files
+*.bak
+*.backup
+*.old
+
+# Node modules (if using any frontend build tools)
+node_modules/
+package-lock.json
+yarn.lock

@@ -1,0 +1,86 @@
+/* ============================================
+   MAIN.CSS - Core Styles, Variables, and Resets
+   ============================================ */
+
+/* CSS Variables */
+:root {
+    --primary-color: #1A237E;
+    --secondary-color: #1B5E20;
+    --accent-color: #0D47A1;
+    --background-color: #ECF0F1;
+    --text-color: #2C3E50;
+    --success-color: #27AE60;
+    --danger-color: #E74C3C;
+    --warning-color: #F1C40F;
+    --info-color: #3498DB;
+    --light-color: #F5F9FC;
+    --dark-color: #2C3E50;
+    --border-color: #BDC3C7;
+    --shadow-color: rgba(0, 0, 0, 0.1);
+    --light-text: #64748B;
+    --card-bg: #ffffff;
+    --hover-bg: #F8FAFC;
+    --dark-blue: #0D47A1;
+    --light-blue: #E8EAF6;
+    --success-green: #2E7D32;
+    --background-light: #F5F7FA;
+    --text-dark: #1A237E;
+    --dark-green: #1B5E20;
+    --navy-blue: #0D47A1;
+}
+
+/* Base Styles */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: var(--background-color);
+    color: var(--text-color);
+    padding-top: 0;
+}
+
+/* Typography */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: var(--text-dark);
+}
+
+.lead {
+    color: #546E7A;
+}
+
+/* Links */
+a {
+    color: var(--primary-color);
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: var(--secondary-color);
+}
+
+/* Smooth scroll behavior */
+html {
+    scroll-behavior: smooth;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: var(--background-color);
+}
+
+::-webkit-scrollbar-thumb {
+    background: var(--primary-color);
+    border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #2980B9;
+}

@@ -1,0 +1,411 @@
+[22-Jan-2026 18:19:25 Europe/Berlin] Database connection successful
+[22-Jan-2026 18:19:32 Europe/Berlin] Database connection successful
+[22-Jan-2026 18:19:32 Europe/Berlin] Database connection successful
+[22-Jan-2026 18:20:04 Europe/Berlin] Database connection successful
+[22-Jan-2026 18:20:04 Europe/Berlin] Database connection successful
+[22-Jan-2026 18:20:04 Europe/Berlin] Database connection successful
+[22-Jan-2026 18:20:04 Europe/Berlin] Users by country data: []
+[22-Jan-2026 18:20:04 Europe/Berlin] Database connection successful
+[22-Jan-2026 18:20:04 Europe/Berlin] Database connection successful
+[22-Jan-2026 18:20:07 Europe/Berlin] Database connection successful
+[22-Jan-2026 18:20:09 Europe/Berlin] Database connection successful
+[22-Jan-2026 18:20:10 Europe/Berlin] Database connection successful
+[23-Jan-2026 01:59:44 Europe/Berlin] Database connection successful
+[23-Jan-2026 01:59:44 Europe/Berlin] Database connection successful
+[23-Jan-2026 02:03:09 Europe/Berlin] Database connection successful
+[23-Jan-2026 02:03:09 Europe/Berlin] Database connection successful
+[23-Jan-2026 02:03:45 Europe/Berlin] Database connection successful
+[23-Jan-2026 02:03:48 Europe/Berlin] Database connection successful
+[23-Jan-2026 02:03:49 Europe/Berlin] Database connection successful
+[23-Jan-2026 02:03:49 Europe/Berlin] Database connection successful
+[23-Jan-2026 02:03:49 Europe/Berlin] Users by country data: []
+[23-Jan-2026 02:03:49 Europe/Berlin] Database connection successful
+[23-Jan-2026 02:03:49 Europe/Berlin] Database connection successful
+[23-Jan-2026 02:03:51 Europe/Berlin] Database connection successful
+[23-Jan-2026 02:03:53 Europe/Berlin] Database connection successful
+[23-Jan-2026 02:03:55 Europe/Berlin] Database connection successful
+[23-Jan-2026 02:04:03 Europe/Berlin] Database connection successful
+[23-Jan-2026 02:14:18 Europe/Berlin] Database connection successful
+[23-Jan-2026 02:14:19 Europe/Berlin] Database connection successful
+[24-Jan-2026 02:41:19 Europe/Berlin] Database connection successful
+[24-Jan-2026 02:41:20 Europe/Berlin] Database connection successful
+[04-Feb-2026 16:47:36 Europe/Berlin] Database connection successful
+[04-Feb-2026 16:47:36 Europe/Berlin] Database connection successful
+[04-Feb-2026 17:33:22 Europe/Berlin] Database connection successful
+[04-Feb-2026 17:33:25 Europe/Berlin] Database connection successful
+[04-Feb-2026 17:51:26 Europe/Berlin] Database connection successful
+[04-Feb-2026 17:51:28 Europe/Berlin] Database connection successful
+[04-Feb-2026 17:51:33 Europe/Berlin] Database connection successful
+[04-Feb-2026 17:51:33 Europe/Berlin] Database connection successful
+[04-Feb-2026 17:51:34 Europe/Berlin] Database connection successful
+[04-Feb-2026 17:51:34 Europe/Berlin] Users by country data: []
+[04-Feb-2026 17:51:34 Europe/Berlin] Database connection successful
+[04-Feb-2026 17:51:34 Europe/Berlin] Database connection successful
+[04-Feb-2026 17:51:50 Europe/Berlin] Database connection successful
+[04-Feb-2026 17:51:53 Europe/Berlin] Database connection successful
+[04-Feb-2026 17:51:55 Europe/Berlin] Database connection successful
+[04-Feb-2026 17:52:05 Europe/Berlin] Database connection successful
+[04-Feb-2026 17:52:05 Europe/Berlin] Database connection successful
+[04-Feb-2026 17:52:05 Europe/Berlin] Users by country data: []
+[04-Feb-2026 17:52:05 Europe/Berlin] Database connection successful
+[04-Feb-2026 17:52:05 Europe/Berlin] Database connection successful
+[04-Feb-2026 17:52:10 Europe/Berlin] Database connection successful
+[04-Feb-2026 17:52:12 Europe/Berlin] Database connection successful
+[04-Feb-2026 17:52:13 Europe/Berlin] Database connection successful
+[04-Feb-2026 17:52:15 Europe/Berlin] Database connection successful
+[04-Feb-2026 17:52:16 Europe/Berlin] Database connection successful
+[08-Feb-2026 02:35:30 Europe/Berlin] Database connection successful
+[08-Feb-2026 02:35:30 Europe/Berlin] Database connection successful
+[08-Feb-2026 02:35:36 Europe/Berlin] Database connection successful
+[09-Feb-2026 05:20:37 Europe/Berlin] Database connection successful
+[09-Feb-2026 05:20:37 Europe/Berlin] Database connection successful
+[10-Feb-2026 16:37:42 Europe/Berlin] Database connection successful
+[10-Feb-2026 16:37:43 Europe/Berlin] Database connection successful
+[11-Feb-2026 01:59:49 Europe/Berlin] Database connection successful
+[11-Feb-2026 01:59:49 Europe/Berlin] Database connection successful
+[11-Feb-2026 02:35:16 Europe/Berlin] Database connection successful
+[11-Feb-2026 02:46:10 Europe/Berlin] Database connection successful
+[11-Feb-2026 02:47:57 Europe/Berlin] Database connection successful
+[11-Feb-2026 02:55:26 Europe/Berlin] Database connection successful
+[11-Feb-2026 02:55:26 Europe/Berlin] Database connection file loaded successfully
+[11-Feb-2026 02:55:26 Europe/Berlin] Registration attempt received - POST data: Array
+(
+    [username] => Laxminarayan Prajapat
+    [email] => laxminarayanp519@gmail.com
+    [password] => Laxmi123
+    [confirm_password] => Laxmi123
+    [country] => IN
+    [currency] => INR
+)
+
+[11-Feb-2026 02:55:26 Europe/Berlin] Files data: Array
+(
+    [profile_picture] => Array
+        (
+            [name] => My_Img_2.jpg
+            [full_path] => My_Img_2.jpg
+            [type] => image/jpeg
+            [tmp_name] => C:\xampp\tmp\phpED55.tmp
+            [error] => 0
+            [size] => 9641
+        )
+
+)
+
+[11-Feb-2026 02:55:26 Europe/Berlin] Database connection verified
+[11-Feb-2026 02:55:26 Europe/Berlin] Processed form data: Array
+(
+    [username] => Laxminarayan Prajapat
+    [email] => laxminarayanp519@gmail.com
+    [country] => IN
+    [currency] => INR
+)
+
+[11-Feb-2026 02:55:26 Europe/Berlin] All required fields present
+[11-Feb-2026 02:55:26 Europe/Berlin] Email format valid
+[11-Feb-2026 02:55:26 Europe/Berlin] Passwords match
+[11-Feb-2026 02:55:26 Europe/Berlin] Username available
+[11-Feb-2026 02:55:26 Europe/Berlin] Email available in users table
+[11-Feb-2026 02:55:26 Europe/Berlin] Email available in pending_users table
+[11-Feb-2026 02:55:26 Europe/Berlin] Profile picture uploaded successfully: 698be18e9a561.jpg
+[11-Feb-2026 02:55:26 Europe/Berlin] Password hashed successfully
+[11-Feb-2026 02:55:26 Europe/Berlin] Preparing to insert user into pending_users table
+[11-Feb-2026 02:55:26 Europe/Berlin] Parameters bound successfully
+[11-Feb-2026 02:55:26 Europe/Berlin] User data stored in pending_users table
+[11-Feb-2026 02:55:26 Europe/Berlin] OTP generated: 239284
+[11-Feb-2026 02:55:26 Europe/Berlin] Attempting to send OTP email to: laxminarayanp519@gmail.com
+[11-Feb-2026 02:55:32 Europe/Berlin] EmailService [info]: Email sent successfully to: laxminarayanp519@gmail.com
+[11-Feb-2026 02:55:32 Europe/Berlin] OTP email sent successfully to: laxminarayanp519@gmail.com
+[11-Feb-2026 02:55:32 Europe/Berlin] OTP email sent successfully to: laxminarayanp519@gmail.com
+[11-Feb-2026 02:56:01 Europe/Berlin] Database connection successful
+[11-Feb-2026 02:56:01 Europe/Berlin] Database connection successful
+[11-Feb-2026 02:56:10 Europe/Berlin] Database connection successful
+[11-Feb-2026 02:56:10 Europe/Berlin] Database connection successful
+[11-Feb-2026 02:56:11 Europe/Berlin] Database connection successful
+[11-Feb-2026 15:17:38 Europe/Berlin] Database connection successful
+[11-Feb-2026 15:17:39 Europe/Berlin] Database connection successful
+[11-Feb-2026 15:17:40 Europe/Berlin] Database connection successful
+[11-Feb-2026 15:17:44 Europe/Berlin] Database connection successful
+[11-Feb-2026 15:17:44 Europe/Berlin] Database connection successful
+[11-Feb-2026 15:17:47 Europe/Berlin] Database connection successful
+[11-Feb-2026 17:44:57 Europe/Berlin] Database connection successful
+[11-Feb-2026 17:44:59 Europe/Berlin] Database connection successful
+[11-Feb-2026 17:44:59 Europe/Berlin] Database connection successful
+[11-Feb-2026 17:45:04 Europe/Berlin] Database connection successful
+[11-Feb-2026 17:45:04 Europe/Berlin] Database connection successful
+[11-Feb-2026 17:45:04 Europe/Berlin] Database connection successful
+[11-Feb-2026 17:45:22 Europe/Berlin] Database connection successful
+[11-Feb-2026 17:45:24 Europe/Berlin] Database connection successful
+[11-Feb-2026 17:45:24 Europe/Berlin] Database connection successful
+[11-Feb-2026 17:45:42 Europe/Berlin] Database connection successful
+[11-Feb-2026 17:45:43 Europe/Berlin] Database connection successful
+[11-Feb-2026 17:45:43 Europe/Berlin] Database connection successful
+[11-Feb-2026 18:11:59 Europe/Berlin] Database connection successful
+[11-Feb-2026 18:12:17 Europe/Berlin] Database connection successful
+[11-Feb-2026 18:12:17 Europe/Berlin] Database connection successful
+[11-Feb-2026 18:34:22 Europe/Berlin] Database connection successful
+[12-Feb-2026 01:26:45 Europe/Berlin] Database connection successful
+[12-Feb-2026 01:26:45 Europe/Berlin] Database connection successful
+[12-Feb-2026 01:46:28 Europe/Berlin] Database connection successful
+[12-Feb-2026 01:46:36 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in C:\xampp\htdocs\Wallet Tally\process_login.php:11
+Stack trace:
+#0 C:\xampp\htdocs\Wallet Tally\process_login.php(11): mysqli->prepare('SELECT id, user...')
+#1 {main}
+  thrown in C:\xampp\htdocs\Wallet Tally\process_login.php on line 11
+[12-Feb-2026 01:46:52 Europe/Berlin] Database connection successful
+[12-Feb-2026 01:46:53 Europe/Berlin] Database connection successful
+[12-Feb-2026 01:46:58 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in C:\xampp\htdocs\Wallet Tally\dashboard.php:86
+Stack trace:
+#0 C:\xampp\htdocs\Wallet Tally\dashboard.php(86): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\Wallet Tally\dashboard.php on line 86
+[12-Feb-2026 01:47:09 Europe/Berlin] Database connection successful
+[12-Feb-2026 01:47:09 Europe/Berlin] Database connection successful
+[12-Feb-2026 02:33:59 Europe/Berlin] Database connection successful
+[12-Feb-2026 02:35:39 Europe/Berlin] Database connection successful
+[12-Feb-2026 02:35:39 Europe/Berlin] Database connection successful
+[12-Feb-2026 02:35:41 Europe/Berlin] Database connection successful
+[12-Feb-2026 02:35:41 Europe/Berlin] Users by country data: [{"country":"IN","count":"1"}]
+[12-Feb-2026 02:35:41 Europe/Berlin] Database connection successful
+[12-Feb-2026 02:35:41 Europe/Berlin] Database connection successful
+[12-Feb-2026 07:46:09 Europe/Berlin] Database connection successful
+[12-Feb-2026 07:46:13 Europe/Berlin] Database connection successful
+[12-Feb-2026 07:46:13 Europe/Berlin] Database connection successful
+[12-Feb-2026 07:46:13 Europe/Berlin] Database connection successful
+[12-Feb-2026 07:46:13 Europe/Berlin] Users by country data: [{"country":"IN","count":"1"}]
+[12-Feb-2026 07:46:13 Europe/Berlin] Database connection successful
+[12-Feb-2026 07:46:13 Europe/Berlin] Database connection successful
+[12-Feb-2026 07:46:21 Europe/Berlin] Database connection successful
+[12-Feb-2026 08:04:07 Europe/Berlin] Database connection successful
+[12-Feb-2026 10:05:20 Europe/Berlin] Database connection successful
+[12-Feb-2026 10:15:40 Europe/Berlin] Database connection successful
+[12-Feb-2026 10:15:40 Europe/Berlin] Database connection successful
+[12-Feb-2026 10:15:40 Europe/Berlin] Database connection successful
+[12-Feb-2026 10:15:40 Europe/Berlin] Users by country data: [{"country":"IN","count":"1"}]
+[12-Feb-2026 10:15:40 Europe/Berlin] Database connection successful
+[12-Feb-2026 10:15:40 Europe/Berlin] Database connection successful
+[12-Feb-2026 10:15:42 Europe/Berlin] Database connection successful
+[12-Feb-2026 10:26:35 Europe/Berlin] Database connection successful
+[12-Feb-2026 10:31:15 Europe/Berlin] Database connection successful
+[12-Feb-2026 10:31:18 Europe/Berlin] Database connection successful
+[12-Feb-2026 10:31:19 Europe/Berlin] Database connection successful
+[12-Feb-2026 10:31:19 Europe/Berlin] Database connection successful
+[12-Feb-2026 10:31:30 Europe/Berlin] Database connection successful
+[12-Feb-2026 10:31:33 Europe/Berlin] Database connection successful
+[12-Feb-2026 10:31:36 Europe/Berlin] Database connection successful
+[12-Feb-2026 10:31:37 Europe/Berlin] Database connection successful
+[12-Feb-2026 10:31:37 Europe/Berlin] Database connection successful
+[12-Feb-2026 10:31:37 Europe/Berlin] Users by country data: [{"country":"IN","count":"1"}]
+[12-Feb-2026 10:31:37 Europe/Berlin] Database connection successful
+[12-Feb-2026 10:31:37 Europe/Berlin] Database connection successful
+[12-Feb-2026 10:31:39 Europe/Berlin] Database connection successful
+[12-Feb-2026 10:33:41 Europe/Berlin] Database connection successful
+[12-Feb-2026 10:33:42 Europe/Berlin] Attempting to send feedback email to: laxminarayanp519@gmail.com
+[12-Feb-2026 10:33:48 Europe/Berlin] Feedback email sent successfully to: laxminarayanp519@gmail.com
+[12-Feb-2026 10:33:50 Europe/Berlin] Database connection successful
+[12-Feb-2026 10:33:54 Europe/Berlin] Database connection successful
+[12-Feb-2026 10:33:56 Europe/Berlin] Database connection successful
+[12-Feb-2026 10:51:16 Europe/Berlin] Database connection successful
+[12-Feb-2026 10:51:36 Europe/Berlin] Database connection successful
+[12-Feb-2026 10:51:46 Europe/Berlin] Database connection successful
+[12-Feb-2026 10:59:44 Europe/Berlin] Database connection successful
+[12-Feb-2026 14:19:51 Europe/Berlin] Database connection successful
+[12-Feb-2026 14:28:31 Europe/Berlin] Database connection successful
+[12-Feb-2026 15:30:36 Europe/Berlin] Database connection successful
+[12-Feb-2026 15:30:40 Europe/Berlin] Database connection successful
+[12-Feb-2026 15:30:40 Europe/Berlin] Database connection successful
+[12-Feb-2026 15:30:41 Europe/Berlin] Database connection successful
+[12-Feb-2026 15:30:41 Europe/Berlin] Users by country data: [{"country":"IN","count":"1"}]
+[12-Feb-2026 15:30:41 Europe/Berlin] Database connection successful
+[12-Feb-2026 15:30:41 Europe/Berlin] Database connection successful
+[12-Feb-2026 15:30:51 Europe/Berlin] Database connection successful
+[12-Feb-2026 15:31:07 Europe/Berlin] Database connection successful
+[12-Feb-2026 15:31:07 Europe/Berlin] Database connection successful
+[12-Feb-2026 15:31:07 Europe/Berlin] Users by country data: [{"country":"IN","count":"1"}]
+[12-Feb-2026 15:31:07 Europe/Berlin] Database connection successful
+[12-Feb-2026 15:31:07 Europe/Berlin] Database connection successful
+[12-Feb-2026 15:48:36 Europe/Berlin] Database connection successful
+[12-Feb-2026 15:48:38 Europe/Berlin] Database connection successful
+[12-Feb-2026 15:48:39 Europe/Berlin] Database connection successful
+[12-Feb-2026 15:48:39 Europe/Berlin] Database connection successful
+[12-Feb-2026 15:48:39 Europe/Berlin] Database connection successful
+[12-Feb-2026 15:48:40 Europe/Berlin] Database connection successful
+[12-Feb-2026 15:48:40 Europe/Berlin] Database connection successful
+[12-Feb-2026 15:48:41 Europe/Berlin] Database connection successful
+[12-Feb-2026 15:48:42 Europe/Berlin] Database connection successful
+[12-Feb-2026 15:48:42 Europe/Berlin] Database connection successful
+[12-Feb-2026 15:48:43 Europe/Berlin] Database connection successful
+[12-Feb-2026 15:48:43 Europe/Berlin] Database connection successful
+[12-Feb-2026 15:48:44 Europe/Berlin] Database connection successful
+[12-Feb-2026 15:48:44 Europe/Berlin] Database connection successful
+[12-Feb-2026 15:48:44 Europe/Berlin] Database connection successful
+[12-Feb-2026 15:48:45 Europe/Berlin] Database connection successful
+[12-Feb-2026 15:48:45 Europe/Berlin] Database connection successful
+[12-Feb-2026 15:48:45 Europe/Berlin] Database connection successful
+[12-Feb-2026 15:48:46 Europe/Berlin] Database connection successful
+[12-Feb-2026 15:48:46 Europe/Berlin] Database connection successful
+[12-Feb-2026 15:48:47 Europe/Berlin] Database connection successful
+[12-Feb-2026 15:48:47 Europe/Berlin] Database connection successful
+[12-Feb-2026 15:48:47 Europe/Berlin] Database connection successful
+[12-Feb-2026 15:48:49 Europe/Berlin] Database connection successful
+[12-Feb-2026 15:48:50 Europe/Berlin] Database connection successful
+[12-Feb-2026 15:48:50 Europe/Berlin] Database connection successful
+[12-Feb-2026 15:48:50 Europe/Berlin] Database connection successful
+[12-Feb-2026 15:48:50 Europe/Berlin] Database connection successful
+[12-Feb-2026 15:48:50 Europe/Berlin] Database connection successful
+[12-Feb-2026 15:48:58 Europe/Berlin] Database connection successful
+[12-Feb-2026 15:48:58 Europe/Berlin] Database connection successful
+[14-Feb-2026 07:28:33 Europe/Berlin] Database connection successful
+[14-Feb-2026 07:28:33 Europe/Berlin] Database connection successful
+[14-Feb-2026 11:28:44 Europe/Berlin] Database connection successful
+[20-Feb-2026 10:20:29 Europe/Berlin] Database connection successful
+[20-Feb-2026 10:20:29 Europe/Berlin] Database connection successful
+[20-Feb-2026 10:20:31 Europe/Berlin] Database connection successful
+[20-Feb-2026 10:20:35 Europe/Berlin] Database connection successful
+[20-Feb-2026 10:21:14 Europe/Berlin] Database connection successful
+[20-Feb-2026 10:21:15 Europe/Berlin] Database connection file loaded successfully
+[20-Feb-2026 10:21:15 Europe/Berlin] Registration attempt received - POST data: Array
+(
+    [username] => Laxminarayan Prajapat
+    [email] => 25pmc036@dkte.ac.in
+    [password] => Laxmi123
+    [confirm_password] => Laxmi123
+    [country] => IN
+    [currency] => INR
+)
+
+[20-Feb-2026 10:21:15 Europe/Berlin] Files data: Array
+(
+    [profile_picture] => Array
+        (
+            [name] => 
+            [full_path] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[20-Feb-2026 10:21:15 Europe/Berlin] Database connection verified
+[20-Feb-2026 10:21:15 Europe/Berlin] Processed form data: Array
+(
+    [username] => Laxminarayan Prajapat
+    [email] => 25pmc036@dkte.ac.in
+    [country] => IN
+    [currency] => INR
+)
+
+[20-Feb-2026 10:21:15 Europe/Berlin] All required fields present
+[20-Feb-2026 10:21:15 Europe/Berlin] Email format valid
+[20-Feb-2026 10:21:15 Europe/Berlin] Passwords match
+[20-Feb-2026 10:21:15 Europe/Berlin] Username already taken: Laxminarayan Prajapat
+[20-Feb-2026 10:21:15 Europe/Berlin] Database connection successful
+[20-Feb-2026 10:21:26 Europe/Berlin] Database connection successful
+[20-Feb-2026 10:21:36 Europe/Berlin] Database connection successful
+[20-Feb-2026 10:21:37 Europe/Berlin] Database connection successful
+[20-Feb-2026 10:21:37 Europe/Berlin] Database connection successful
+[27-Feb-2026 10:34:23 Europe/Berlin] Database connection successful
+[27-Feb-2026 10:34:23 Europe/Berlin] Database connection successful
+[27-Feb-2026 10:59:06 Europe/Berlin] Database connection successful
+[27-Feb-2026 10:59:40 Europe/Berlin] Database connection successful
+[27-Feb-2026 10:59:54 Europe/Berlin] Database connection successful
+[27-Feb-2026 11:00:09 Europe/Berlin] Database connection successful
+[27-Feb-2026 11:00:14 Europe/Berlin] Database connection successful
+[27-Feb-2026 11:00:14 Europe/Berlin] Database connection successful
+[27-Feb-2026 11:00:15 Europe/Berlin] Database connection successful
+[27-Feb-2026 11:01:08 Europe/Berlin] Database connection successful
+[27-Feb-2026 11:01:18 Europe/Berlin] Database connection successful
+[27-Feb-2026 11:01:18 Europe/Berlin] Database connection successful
+[27-Feb-2026 11:01:32 Europe/Berlin] Database connection successful
+[27-Feb-2026 11:01:35 Europe/Berlin] Database connection successful
+[27-Feb-2026 11:02:34 Europe/Berlin] Database connection successful
+[27-Feb-2026 11:02:35 Europe/Berlin] Database connection file loaded successfully
+[27-Feb-2026 11:02:35 Europe/Berlin] Registration attempt received - POST data: Array
+(
+    [username] => demo
+    [email] => demo@gmail.com
+    [password] => demo123
+    [confirm_password] => demo123
+    [country] => JP
+    [currency] => JPY
+)
+
+[27-Feb-2026 11:02:35 Europe/Berlin] Files data: Array
+(
+    [profile_picture] => Array
+        (
+            [name] => 
+            [full_path] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[27-Feb-2026 11:02:35 Europe/Berlin] Database connection verified
+[27-Feb-2026 11:02:35 Europe/Berlin] Processed form data: Array
+(
+    [username] => demo
+    [email] => demo@gmail.com
+    [country] => JP
+    [currency] => JPY
+)
+
+[27-Feb-2026 11:02:35 Europe/Berlin] All required fields present
+[27-Feb-2026 11:02:35 Europe/Berlin] Email format valid
+[27-Feb-2026 11:02:35 Europe/Berlin] Passwords match
+[27-Feb-2026 11:02:35 Europe/Berlin] Username available
+[27-Feb-2026 11:02:35 Europe/Berlin] Email available in users table
+[27-Feb-2026 11:02:35 Europe/Berlin] Email available in pending_users table
+[27-Feb-2026 11:02:35 Europe/Berlin] No profile picture uploaded, will be null
+[27-Feb-2026 11:02:35 Europe/Berlin] Password hashed successfully
+[27-Feb-2026 11:02:35 Europe/Berlin] Preparing to insert user into pending_users table
+[27-Feb-2026 11:02:35 Europe/Berlin] Parameters bound successfully
+[27-Feb-2026 11:02:35 Europe/Berlin] User data stored in pending_users table
+[27-Feb-2026 11:02:36 Europe/Berlin] OTP generated: 605990
+[27-Feb-2026 11:02:36 Europe/Berlin] Attempting to send OTP email to: demo@gmail.com
+[27-Feb-2026 11:02:40 Europe/Berlin] EmailService [error]: PHPMailer Error: SMTP Error: Could not authenticate.
+[27-Feb-2026 11:02:40 Europe/Berlin] OTP email sending error: SMTP Error: Could not authenticate.
+[27-Feb-2026 11:02:40 Europe/Berlin] SMTP Error Info: SMTP Error: Could not authenticate.
+[27-Feb-2026 11:02:40 Europe/Berlin] Failed to send OTP email to: demo@gmail.com
+[27-Feb-2026 11:03:02 Europe/Berlin] Database connection successful
+[27-Feb-2026 11:03:03 Europe/Berlin] Database connection successful
+[27-Feb-2026 11:03:03 Europe/Berlin] Database connection successful
+[27-Feb-2026 11:03:04 Europe/Berlin] Database connection successful
+[27-Feb-2026 11:03:04 Europe/Berlin] Database connection successful
+[27-Feb-2026 11:03:04 Europe/Berlin] Database connection successful
+[27-Feb-2026 11:03:04 Europe/Berlin] Database connection successful
+[27-Feb-2026 11:03:05 Europe/Berlin] Database connection successful
+[27-Feb-2026 11:03:06 Europe/Berlin] Database connection successful
+[27-Feb-2026 11:03:06 Europe/Berlin] Database connection successful
+[27-Feb-2026 11:03:07 Europe/Berlin] Database connection successful
+[27-Feb-2026 11:03:08 Europe/Berlin] Database connection successful
+[27-Feb-2026 11:22:14 Europe/Berlin] Database connection successful
+[27-Feb-2026 11:22:17 Europe/Berlin] Database connection successful
+[27-Feb-2026 11:22:17 Europe/Berlin] Database connection successful
+[27-Feb-2026 11:22:17 Europe/Berlin] Database connection successful
+[27-Feb-2026 11:22:49 Europe/Berlin] Database connection successful
+[27-Feb-2026 11:22:50 Europe/Berlin] Database connection successful
+[27-Feb-2026 11:22:51 Europe/Berlin] Database connection successful
+[27-Feb-2026 11:22:54 Europe/Berlin] Database connection successful
+[27-Feb-2026 11:41:12 Europe/Berlin] Database connection successful
+[27-Feb-2026 11:41:45 Europe/Berlin] Database connection successful
+[27-Feb-2026 11:41:54 Europe/Berlin] Database connection successful
+[27-Feb-2026 11:50:16 Europe/Berlin] Database connection successful
+[27-Feb-2026 11:50:16 Europe/Berlin] Database connection successful
+[27-Feb-2026 11:50:17 Europe/Berlin] Database connection successful
+[27-Feb-2026 11:50:17 Europe/Berlin] Users by country data: [{"country":"IN","count":"1"}]
+[27-Feb-2026 11:50:17 Europe/Berlin] Database connection successful
+[27-Feb-2026 11:50:17 Europe/Berlin] Database connection successful
+[27-Feb-2026 11:52:11 Europe/Berlin] Database connection successful
+[27-Feb-2026 11:53:00 Europe/Berlin] Database connection successful
+[27-Feb-2026 11:53:32 Europe/Berlin] Database connection successful
+[27-Feb-2026 16:58:33 Europe/Berlin] Database connection successful
+[02-Mar-2026 12:51:21 Europe/Berlin] Database connection successful
+[02-Mar-2026 12:51:22 Europe/Berlin] Database connection successful
+[02-Mar-2026 13:07:52 Europe/Berlin] Database connection successful
+[02-Mar-2026 13:07:53 Europe/Berlin] Database connection successful

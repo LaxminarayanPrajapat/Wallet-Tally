@@ -1,0 +1,15 @@
+body { font-family: Arial, sans-serif; margin: 20px; color: #333; }
+        .header { background: linear-gradient(135deg, #1A237E, #1B5E20); color: white; padding: 20px; border-radius: 10px; margin-bottom: 20px; }
+        .header h1 { margin: 0; font-size: 24px; }
+        .header p { margin: 5px 0 0 0; opacity: 0.9; }
+        table { width: 100%; border-collapse: collapse; margin: 20px 0; }
+        th { background: #f5f5f5; padding: 12px; text-align: left; border-bottom: 2px solid #ddd; font-weight: 600; }
+        td { padding: 10px 12px; border-bottom: 1px solid #eee; }
+        .income { color: #10B981; font-weight: 500; }
+        .expense { color: #EF4444; font-weight: 500; }
+        .summary { background: #f9f9f9; padding: 20px; border-radius: 10px; margin-top: 20px; }
+        .summary-row { display: flex; justify-content: space-between; padding: 10px 0; border-bottom: 1px solid #ddd; }
+        .summary-row:last-child { border-bottom: none; font-weight: bold; font-size: 18px; }
+        .no-data { text-align: center; padding: 40px; color: #999; font-style: italic; }
+        @media print { body { margin: 0; } .header { border-radius: 0; } }
+

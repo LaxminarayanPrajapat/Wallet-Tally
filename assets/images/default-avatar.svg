@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+  <defs>
+    <!-- Traditional Wallet Tally Blue to Green Gradient -->
+    <linearGradient id="avatarGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1A237E;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#3da7f0;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1B5E20;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background Circle -->
+  <circle cx="60" cy="60" r="60" fill="url(#avatarGradient)"/>
+  
+  <!-- User Icon -->
+  <g fill="white" fill-opacity="0.95">
+    <!-- Head -->
+    <circle cx="60" cy="45" r="18"/>
+    
+    <!-- Body -->
+    <path d="M60 70 C45 70, 30 80, 30 95 L30 110 L90 110 L90 95 C90 80, 75 70, 60 70 Z"/>
+  </g>
+  
+  <!-- Subtle border with gradient -->
+  <circle cx="60" cy="60" r="59" fill="none" stroke="white" stroke-width="2" stroke-opacity="0.4"/>
+  
+  <!-- Inner highlight -->
+  <circle cx="60" cy="60" r="55" fill="none" stroke="rgba(255,255,255,0.2)" stroke-width="1"/>
+</svg>
