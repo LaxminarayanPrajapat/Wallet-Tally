@@ -29,7 +29,7 @@ This plan implements the migration of Wallet Tally from MySQL to Firebase Firest
     - **Property 22: Database Implementation Switching**
     - **Validates: Requirements 1.5, 20.1, 20.2**
   
-  - [ ]* 2.4 Write unit tests for DatabaseInterface implementations
+  - [x] 2.4 Write unit tests for DatabaseInterface implementations
     - Test CRUD operations with specific examples
     - Test edge cases (null values, empty strings, boundary conditions)
     - _Requirements: 1.1, 1.2, 1.3_
