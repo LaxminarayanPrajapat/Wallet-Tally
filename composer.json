@@ -33,6 +33,12 @@
     },
     "config": {
         "optimize-autoloader": true,
-        "sort-packages": true
+        "sort-packages": true,
+        "platform": {
+            "ext-grpc": "1.0.0"
+        }
+    },
+    "suggest": {
+        "ext-grpc": "For better Firebase performance (optional, REST API fallback available)"
     }
 }
